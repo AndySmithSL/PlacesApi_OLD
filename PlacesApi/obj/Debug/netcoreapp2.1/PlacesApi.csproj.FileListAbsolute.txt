@@ -1,0 +1,14 @@
+C:\Users\asmith\source\repos\PlacesApi\PlacesApi\bin\Debug\netcoreapp2.1\PlacesApi.deps.json
+C:\Users\asmith\source\repos\PlacesApi\PlacesApi\bin\Debug\netcoreapp2.1\PlacesApi.runtimeconfig.json
+C:\Users\asmith\source\repos\PlacesApi\PlacesApi\bin\Debug\netcoreapp2.1\PlacesApi.runtimeconfig.dev.json
+C:\Users\asmith\source\repos\PlacesApi\PlacesApi\bin\Debug\netcoreapp2.1\PlacesApi.dll
+C:\Users\asmith\source\repos\PlacesApi\PlacesApi\bin\Debug\netcoreapp2.1\PlacesApi.pdb
+C:\Users\asmith\source\repos\PlacesApi\PlacesApi\obj\Debug\netcoreapp2.1\PlacesApi.csprojAssemblyReference.cache
+C:\Users\asmith\source\repos\PlacesApi\PlacesApi\obj\Debug\netcoreapp2.1\PlacesApi.csproj.CoreCompileInputs.cache
+C:\Users\asmith\source\repos\PlacesApi\PlacesApi\obj\Debug\netcoreapp2.1\PlacesApi.RazorAssemblyInfo.cache
+C:\Users\asmith\source\repos\PlacesApi\PlacesApi\obj\Debug\netcoreapp2.1\PlacesApi.RazorAssemblyInfo.cs
+C:\Users\asmith\source\repos\PlacesApi\PlacesApi\obj\Debug\netcoreapp2.1\PlacesApi.AssemblyInfoInputs.cache
+C:\Users\asmith\source\repos\PlacesApi\PlacesApi\obj\Debug\netcoreapp2.1\PlacesApi.AssemblyInfo.cs
+C:\Users\asmith\source\repos\PlacesApi\PlacesApi\obj\Debug\netcoreapp2.1\PlacesApi.RazorTargetAssemblyInfo.cache
+C:\Users\asmith\source\repos\PlacesApi\PlacesApi\obj\Debug\netcoreapp2.1\PlacesApi.dll
+C:\Users\asmith\source\repos\PlacesApi\PlacesApi\obj\Debug\netcoreapp2.1\PlacesApi.pdb
